@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name LuffyTake3)(type KiCad)(uri C:/Users/choco/Documents/BSides/OnePieceBadge2019/LuffyTake3)(options "")(descr ""))
+  (lib (name BsidesLogos)(type KiCad)(uri C:/Users/choco/Documents/BSides/BsidesLogos)(options "")(descr ""))
+)
