@@ -10,6 +10,7 @@ theme:
         - rust
 nav:
 - Home: 'index.md'
+- Faq: 'faq.md'
 
 markdown_extensions:
     - toc:
