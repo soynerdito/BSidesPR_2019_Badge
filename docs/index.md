@@ -24,9 +24,8 @@ Qt | Part Number | Description
 
 # Fully assembly pictures
 
-![Front side] (img/back_full_assembly.png)
-
-![Back Side ] (img/front_full_assembly.png)
+![Front side](img/backfullassembly.png)
+![Back Side ](img/frontfullassembly.png)
 
 # Configuring Arduino IDE
 Follow the guide at http://highlowtech.org/?p=1695
