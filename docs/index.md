@@ -38,9 +38,9 @@ Qt | Part Number | Description
 
 ![Resistors](img/resistorback.jpg)
 
-3. Ensamble leds for the eyes
-4. Ensamble the switch
-5. Enable the baterry holder
+3. Mount leds for the eyes
+4. Mount the switch
+5. Mount the baterry holder
 
 # Programming
 Programming the badge can be done using the Arduino IDE.
