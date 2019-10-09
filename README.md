@@ -7,9 +7,14 @@ You and only you are responsible for what you do with this project. Enjoy.
 
 This badge is not a product for sale in any way, it's for sharing and learning. Have a good day.
 
+[Read the docs](https://bsidesprbadge2019.readthedocs.io/)
+
+
+![Board](docs/img/frontfullassembly.jpg)
+![BoardBack](docs/img/backfullassembly.jpg)
+
 ## 3D Render of the badge
 Render from KiCad.
-
 ![Badge Front](srcImages/3dRender.png)
 
 ![Badge Back side](srcImages/3dRenderBack.jpg)
