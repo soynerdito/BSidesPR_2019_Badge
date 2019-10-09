@@ -24,8 +24,9 @@ Qt | Part Number | Description
 
 # Fully assembly pictures
 
-![Front side](img/backfullassembly.png)
-![Back Side ](img/frontfullassembly.png)
+![Front Side](img/backfullassembly.jpg)
+
+![Back Side](img/frontfullassembly.jpg)
 
 # Configuring Arduino IDE
 Follow the guide at http://highlowtech.org/?p=1695
@@ -35,8 +36,11 @@ To program the board we need to first burn the Attiny bootloader. That should bu
 
 1. Organize all components from the given bag.
 2. Start with soldering the resistors
-![Resistors](img/resistor_front.png)
-![Resistors](img/resistor_back.png)
+
+![Resistors](img/resistorfront.jpg)
+
+![Resistors](img/resistorback.jpg)
+
 3. Ensamble leds for the eyes
 4. Ensamble the switch
 5. Enable the baterry holder
